@@ -62,6 +62,6 @@
 <br/>  
 <br/>  
 
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" margin="10px" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" margin-top="10px" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
