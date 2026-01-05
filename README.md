@@ -19,7 +19,7 @@
   
 
 <br/>  
-    <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+    <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/feel-good.gif" />
 
 - ### 🔭 I’m currently Junior Software Engineer 
   
