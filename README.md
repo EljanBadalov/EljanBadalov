@@ -58,11 +58,8 @@
    <img width=330 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EljanBadalov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br/>
 </div>
 
+<br/>  
 
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>@EljanBadalov.</strong>
-</p>
